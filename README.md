@@ -3,6 +3,21 @@
 ## Proje Özeti
 Bu projede, bir perakende şirketinin müşteri verileri kullanılarak **K-Means kümeleme algoritması** ile müşteri segmentasyonu yapılmıştır. Amaç, farklı müşteri gruplarını belirleyerek her bir segment için özelleştirilmiş pazarlama stratejileri geliştirmektir.
 
+## Çalışmanın Tanımı ve Amacı
+
+**Tanım:**
+Bu çalışma, bir perakende şirketinin sahip olduğu müşteri veri setini kullanarak, müşterilerin satın alma davranışları, demografik özellikleri ve pazarlama kampanyalarına verdikleri tepkiler temelinde gruplandırılmasını (segmentasyonunu) içermektedir. Müşteri segmentasyonu, pazarlama kaynaklarının daha etkili kullanılması, müşteri memnuniyetinin artırılması ve sonuç olarak şirket karlılığının yükseltilmesi için kritik bir adımdır. Projede, denetimsiz öğrenme yöntemlerinden biri olan K-Means kümeleme algoritması kullanılarak anlamlı ve işlevsel müşteri segmentleri oluşturulmuştur.
+
+**Amaç:**
+Projenin temel amacı, aşağıdaki sorulara cevap bularak şirketin pazarlama stratejilerine yön vermektir:
+
+1.  **Farklı Müşteri Grupları Var Mı?** Şirketin müşteri tabanında, benzer özellikler ve davranışlar sergileyen, birbirinden ayrışan belirgin müşteri grupları (segmentler) var mıdır?
+2.  **Bu Grupların Özellikleri Nelerdir?** Oluşturulan her bir müşteri segmentinin demografik profili (yaş, gelir, eğitim, medeni durum), harcama alışkanlıkları (hangi ürün gruplarına ne kadar harcama yaptıkları), alışveriş kanalı tercihleri (mağaza, web, katalog) ve pazarlama kampanyalarına duyarlılıkları nelerdir?
+3.  **Her Segment İçin Hangi Pazarlama Stratejileri Uygulanmalı?** Her bir segmentin kendine özgü ihtiyaçları, beklentileri ve davranışları göz önüne alındığında, hangi ürünler, kampanyalar ve iletişim kanalları kullanılarak bu segmentlere daha etkili bir şekilde ulaşılabilir?
+4.  **Şirket Kaynakları Nasıl Optimize Edilebilir?** Segmentasyon sonuçları ışığında, pazarlama bütçesi ve çabaları, en yüksek geri dönüş potansiyeline sahip segmentlere nasıl odaklanabilir?
+
+Bu amaçlar doğrultusunda, veri analizi, veri ön işleme, modelleme (K-Means), segment profilleme ve sonuçların iş stratejilerine dönüştürülmesi adımları izlenmiştir.
+
 ## İçindekiler
 - [Kullanılan Veri Seti](#kullanılan-veri-seti)
 - [Adım Adım Çalışma](#adım-adım-çalışma)
