@@ -3,6 +3,8 @@
 ## Proje Özeti
 Bu projede, bir perakende şirketinin müşteri verileri kullanılarak **K-Means kümeleme algoritması** ile müşteri segmentasyonu yapılmıştır. Amaç, farklı müşteri gruplarını belirleyerek her bir segment için özelleştirilmiş pazarlama stratejileri geliştirmektir.
 
+# ** https://www.kaggle.com/code/aliolkac/customer-segmentation-with-k-means **
+
 ## Çalışmanın Tanımı ve Amacı
 
 **Tanım:**

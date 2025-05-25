@@ -28,4 +28,5 @@ edilecektir.
 6. Kaynaklar 
 Oluşturulan Word dosyası Numaraniz_Adiniz_Soyadiniz ismiyle kaydedilmelidir. 
 Çalışmada kullanılan program ya da yazılımla ilgili dosyalar tek bir klasörde toplanarak sisteme 
-yüklenilmelidir
+yüklenilmelidir.
+
