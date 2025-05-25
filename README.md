@@ -64,6 +64,10 @@ Bu amaçlar doğrultusunda, veri analizi, veri ön işleme, modelleme (K-Means),
 
 **İş Açısından:** Segment 0 ve 2, yüksek harcama potansiyeline sahip, lüks ve çeşitli ürünlere ilgi gösteren müşteriler. Segment 1 ise fiyat hassasiyeti yüksek, düşük harcama yapan bir grup. Segment 3 ise orta düzeyde harcama yapan, daha geleneksel müşteri profili.
 
+![Segmentlere Göre Ortalama Harcamalar](images/segmentlere_gore_ortalama_harcamalar.png)
+
+*Yukarıdaki grafik, her müşteri segmentinin farklı ürün gruplarına yaptığı ortalama harcamaları göstermektedir. Özellikle Segment 0 ve 2'nin lüks ve çeşitli ürünlere yüksek harcama yaptığı, Segment 1'in ise tüm ürün gruplarında en düşük harcamaya sahip olduğu görülmektedir.*
+
 ### 2. Segmentlere Göre Kampanya Yanıt Oranları
 - **Segment 0:** Kampanyalara en yüksek yanıt oranına sahip segment. Özellikle bazı kampanyalarda %100'e yakın yanıt oranı var.
 - **Segment 2:** Kampanya yanıt oranları Segment 0'a göre daha düşük ama yine de diğer segmentlere göre yüksek.
@@ -71,6 +75,10 @@ Bu amaçlar doğrultusunda, veri analizi, veri ön işleme, modelleme (K-Means),
 - **Segment 1:** Tüm kampanyalarda en düşük yanıt oranına sahip segment.
 
 **İş Açısından:** Segment 0, pazarlama kampanyalarına en duyarlı müşteri grubu. Bu segmentte kişiselleştirilmiş ve özel kampanyalar çok etkili olabilir. Segment 2 de kampanyalara duyarlı, ancak Segment 1 ve 3'te kampanya etkisi sınırlı.
+
+![Segmentlere Göre Kampanya Yanıt Oranları](images/segmentlere_gore_kampanya_yanit_orani.png)
+
+*Bu görsel, her segmentin pazarlama kampanyalarına verdiği yanıt oranlarını göstermektedir. Segment 0 kampanyalara en yüksek yanıtı verirken, Segment 1 en düşük yanıt oranına sahiptir. Segment 2 ise orta-üst seviyede kampanya duyarlılığı göstermektedir.*
 
 ### 3. Segmentlere Göre Alışveriş Kanalı Tercihleri
 - **Segment 2:** Katalog ve mağaza alışverişlerinde en yüksek ortalamaya sahip. Geleneksel alışveriş kanallarını tercih ediyor.
@@ -80,12 +88,24 @@ Bu amaçlar doğrultusunda, veri analizi, veri ön işleme, modelleme (K-Means),
 
 **İş Açısından:** Segment 2 ve 0, fiziksel mağaza ve katalog kanallarında aktif. Segment 1 ise dijital kanallarda daha aktif, ancak genel alışveriş hacmi düşük. Segment 3 ise mağaza alışverişine yatkın, katalogda ise daha az aktif.
 
+![Segmentlere Göre Alışveriş Kanalı Tercihleri](images/segmentlere_gore_alisveris_kanali_tercihleri.png)
+
+*Bu grafik, müşteri segmentlerinin alışveriş kanalı tercihlerine göre (mağaza, web, katalog) dağılımını göstermektedir. Segment 2 ve 0 fiziksel mağaza ve katalogda aktifken, Segment 1 dijital kanallarda daha aktiftir.*
+
 ### 4. Segmentlerin Yaş ve Gelir Ekseni Üzerinde Dağılımı
 - **Segment 0 ve 2:** Yüksek gelirli müşterilerden oluşuyor. Segment 2, yaş olarak daha geniş bir aralığa yayılmış.
 - **Segment 1:** Düşük gelirli ve daha genç müşterilerden oluşuyor. Yaş ve gelir açısından kümelenmiş durumda.
 - **Segment 3:** Orta gelirli ve yaşça daha olgun müşterilerden oluşuyor. Segment 0 ve 2'ye göre daha düşük gelirli.
 
 **İş Açısından:** Segment 0 ve 2, yüksek gelirli ve yaşça olgun müşteri kitlesiyle lüks ve premium ürünler için hedeflenebilir. Segment 1, genç ve düşük gelirli müşteri kitlesiyle fiyat odaklı kampanyalar için uygun. Segment 3 ise orta gelirli, geleneksel müşteri profiliyle aile ve güven temalı kampanyalara uygun.
+
+![Segmentlere Göre Gelir Dağılımı](images/segmentlere_gore_gelir_dagilimi.png)
+
+*Her segmentin gelir dağılımını gösteren bu grafik, Segment 0 ve 2'nin yüksek gelirli müşterilerden oluştuğunu, Segment 1'in ise düşük gelirli müşteri kitlesine sahip olduğunu ortaya koymaktadır.*
+
+![Segmentlere Göre Yaş Dağılımı](images/segmentlere_gore_yas_dagılımı.png)
+
+*Bu görsel, müşteri segmentlerinin yaş dağılımını göstermektedir. Segment 2'nin yaş aralığı daha genişken, Segment 1 genç müşteri kitlesinden oluşmaktadır. Segment 0 ve 3 ise daha olgun yaş gruplarını temsil etmektedir.*
 
 ## Segment Profilleri ve Pazarlama Önerileri
 
